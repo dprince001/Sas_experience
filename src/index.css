@@ -1,0 +1,37 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Inter', sans-serif;
+    background-color: #050505;
+    color: #ffffff;
+  }
+}
+
+@layer utilities {
+  .font-cursive {
+    font-family: 'WindSong', cursive;
+  }
+
+  .font-display {
+    font-family: 'Raleway', sans-serif;
+  }
+
+  .font-body {
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+
+.textured-bg {
+  background-image: url("./assets/textureBackground.jpg");
+  background-repeat: repeat;
+  background-size: auto;
+}
