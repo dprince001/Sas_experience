@@ -1,4 +1,4 @@
-import { Instagram, Twitter, MessageCircle, Inbox, Mail } from "lucide-react";
+import { Instagram, Twitter, Mail } from "lucide-react";
 
 export default function Footer() {
   const socials = [
