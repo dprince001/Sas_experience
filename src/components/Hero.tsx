@@ -17,7 +17,7 @@ const Hero = () => {
         </h1>
 
         <p className="font-heading font-light text-muted-foreground md:text-lg leading-relaxed max-w-2xl mb-12 text-[#ffffff7a]">
-          A visual artist exploring identity, emotion, and storytelling through
+          Exploring identity, emotion, and storytelling through
           expressive portraiture and creative imagery.
         </p>
 
