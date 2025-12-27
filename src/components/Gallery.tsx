@@ -18,7 +18,7 @@ const Gallery = () => {
 
   return (
     <section className="px-6 md:px-12 lg:px-24 py-16 md:py-24">
-      <h3 className="font-cursive text-[#C6927B] text-2xl md:text-3xl lg:text-[35px] mb-8">
+      <h3 className="font-cursive text-[#C6927B] text-3xl md:text-[35px] mb-8">
         Gallery
       </h3>
 

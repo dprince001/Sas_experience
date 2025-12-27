@@ -8,7 +8,7 @@ const Hero = () => {
   return (
     <section className="min-h-[67vh] flex flex-col justify-center px-8 md:px-12 lg:px-24 py-20">
       <div className="max-w-4xl">
-        <h3 className="font-cursive text-[#C6927B] text-2xl md:text-3xl lg:text-[35px] mb-8">
+        <h3 className="font-cursive text-[#C6927B] text-3xl md:text-[35px] mb-8">
           SAS Experience
         </h3>
 
