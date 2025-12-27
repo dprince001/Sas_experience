@@ -2,7 +2,7 @@ const About = () => {
   return (
     <section className="flex flex-col justify-center px-6 md:px-12 lg:px-24 py-20 sm:items-center">
       <div className="max-w-4xl">
-        <h3 className="font-cursive text-[#C6927B] text-xl md:text-2xl lg:text-[35px] mb-8">
+        <h3 className="font-cursive text-[#C6927B] text-2xl md:text-3xl lg:text-[35px] mb-8">
           The Artist
         </h3>
 
